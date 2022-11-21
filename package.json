@@ -7,11 +7,9 @@
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
-  "overrides": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
-  }
-  ,
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.13",
